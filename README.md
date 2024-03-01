@@ -1,6 +1,6 @@
 # Voice Assistant with OpenAI's GPT-3 and IBM Watson
 <center> <img src="VA_preview.png"> <center>
-<br>[Demo](https://ai-personal-assistant.xs6r134s1i6.us-east.codeengine.appdomain.cloud/)</br>
+<br>[Demo](https://ai-personal-assistant.xs6r134s1i6.us-east.codeengine.appdomain.cloud)</br>
   
 <br>Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson from [CognitiveClass.ai](https://cognitiveclass.ai/courses/chatapp-powered-by-openai)
 
